@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+beautifulsoup4
+lxml
+tqdm
+joblib
+email-validator
+python-magic
